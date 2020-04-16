@@ -23,10 +23,7 @@ public class WeekDayExercise {
         }
 
         return dayName;
-        //System.out.println("Today is " + dayName);
+
     }
 }
-
-
-              //  System.out.println("Today is " + dayName);
 
